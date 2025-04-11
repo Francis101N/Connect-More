@@ -156,22 +156,6 @@ new WOW().init();
 <br><br>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <?php include 'inc/footer.php'; ?> 
 
 </body>
