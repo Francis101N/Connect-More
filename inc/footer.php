@@ -3,7 +3,7 @@
        <div class="row">
             <div class="col-md-3 footer-rows">
                 <div class="footer-logo">
-                    <img src="./dist/images/Connect&more.png" class="img-fluidz">
+                    <img src="./dist/images/Connect&more-logo.png" class="img-fluidz">
                 </div>
                 <p>We provide outcome-focussed Talent, Assessment and Outsourcing Solutions to clients from a wide range of industries across Africa.</p>
             </div>

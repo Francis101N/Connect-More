@@ -9,10 +9,10 @@ body {
     font-size: 14px;
 }
 
-.img-responsive {
+/* .img-responsive {
     width: 100%;
     height: auto;
-}
+} */
 
 
 #navbar {
@@ -55,6 +55,7 @@ body {
 
 .navbar-toggler-icon i {
     font-size: 30px;
+    color: #ff6600;
 }
 
 .navbar-light .navbar-toggler-icon {
@@ -1276,6 +1277,10 @@ i{
 
 
 @media (max-width: 736px) {
+   .navbar-brand img{
+    width: 80%;
+    height: 100px;
+}
 
     .apply-form-section-box {    
         width: 100%;
@@ -1403,6 +1408,9 @@ i{
     margin-top: -10px;
     margin-left: 0px;
 }
+   .footer-logo img{
+    width: 50%;
+   }
 	
 }
 

@@ -11,7 +11,7 @@
 
 <link href="dist/font-awesome/css/all.css" rel="stylesheet" type="text/css">
 
-<link rel="icon" href="./dist/images/Connect&more.png" />
+<link rel="icon" href="./dist/images/Connect&more-logo.png" />
 
 <link href="dist/css/animate.css" rel="stylesheet">
 
@@ -164,7 +164,7 @@ new WOW().init();
                     <!-- Carousel Container -->
                     <div class="SlickCarousel">
                         <!-- Item -->
-                        <div class="ProductBlock">
+                        <div class="ProductBlock ">
                             <div class="Content">
                                 <div class="business-carousel">
                                     <div class="business-carousel-icon">
